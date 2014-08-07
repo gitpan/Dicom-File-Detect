@@ -27,9 +27,10 @@ no_index:
     - t
 requires:
   Readonly: 0
+  perl: 5.8.0
 resources:
   bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=Dicom-File-Detect
   homepage: https://github.com/tupinek/Dicom-File-Detect
   license: http://opensource.org/licenses/BSD-3-Clause
   repository: git://github.com/tupinek/Dicom-File-Detect
-version: 0.01
+version: 0.02
